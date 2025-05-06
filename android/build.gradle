@@ -26,6 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 34
+    namespace 'com.vvvirani.flutter_audio_trimmer'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
